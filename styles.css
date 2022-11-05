@@ -1,0 +1,13 @@
+.btn-primary {
+    background-color:rgba(249, 220, 204, 0.938)!important;
+    border-color: #0077b6!important;
+}
+.alert-warning{
+    cursor: pointer;
+}
+body {
+    height: 100%;
+    background-image: url("images/b94d4f336d6cdbbc9332bd15027fd3bc.jpg");
+  
+  
+  }
